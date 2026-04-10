@@ -1,7 +1,20 @@
 # Hello, I'm Ariel
 <a href="https://linkedin.com/in/arielacostasegura"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional with a strong foundation in security operations, threat detection, and incident response. Recently completed the Google Cybersecurity Certificate, gaining hands-on experience with SIEM tools, Linux, SQL, and network analysis.
+Aspiring Cybersecurity Analyst with a focus on threat detection, incident response, and system security.
 
-## Objective
-My journey in the tech industry has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Skills
+- Linux
+- SQL
+- Network Security
+- Incident Response
+- NIST Cybersecurity Framework
+
+## Projects
+- Security Audit (NIST-based)
+- Incident Response - DoS Attack
+- Linux File Permissions Hardening
+- SQL Security Analysis
+
+## Goal
+Seeking an opportunity cybersecurity role where I can contribute and continue developing my skills.
